@@ -22,7 +22,7 @@
 		},
 		{
 			"Name": "BlockoutToolsPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d337b97aca8947a893526964e179acfd"
 		},
 		{
@@ -34,11 +34,6 @@
 			"Name": "SteamCorePro",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/459e1c72939b4ead8b5132187808a3e7"
-		},
-		{
-			"Name": "StyledEvent",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/044b797a-de0a-4e00-96db-1ff3d068ec2f"
 		},
 		{
 			"Name": "SmoothSyncPlugin",
